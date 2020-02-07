@@ -44,6 +44,7 @@ name.onkeydown = (event) => {
 const answer = [
     '{userName}のいいところは声です',
     '{userName}のいいところは眼差しです'
+    '{userName}のいいところは優しさです'
 ];
 
 /**
